@@ -7,9 +7,9 @@
 Project Title: Living The Social Life
 Project description: Practicing
 
-(back to top)
 
-Built With
+
+## Built With
 HTML
 CSS responsive
 
