@@ -1,16 +1,25 @@
-# title(){return this.options.title||this.options.name}
+# LIVING THE SOCIAL LIFE
 
-## Supporting Scrimba
+## Purpose
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+This project was developed as training in CSS responsive layout
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+<p align=center>
+<img src="./img/life.png" height=400></img>
+</p>
 
-	It would also mean the world to us if you share the courses.  
+## Built with
 
-Happy Coding!
+- HTML.
+- Css (Responsive - Media Query)
+
+## Link
+
+- https://living-the-social-life.vercel.app/
+
+## Available Scripts
+
+**npm i** to install **npm start** to lunch on your localhost
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
